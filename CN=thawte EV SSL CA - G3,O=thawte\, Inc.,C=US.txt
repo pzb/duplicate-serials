@@ -1,6 +1,7 @@
 Issuer: CN=thawte EV SSL CA - G3,O=thawte\, Inc.,C=US
 
-Duplicate Serial: 5F155520B8F87AEE3199B35CDACA8B61
+Detected mulitple "DER" for serial: 5F155520B8F87AEE3199B35CDACA8B61
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -120,6 +121,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -238,6 +240,7 @@ Dj9tHQIYQfWE9OQIiQXI5+gMXNmDkzrFJmU2Fq5u3I9JZzS54pVtP/chDoB12PGk
 /FG0d9HZ8VeMLZOrqgY0u6+SW3HnQT9zFKHW1hqFnPzAg3EZmSi0ecUuvTwb2zuU
 algxOYwPcHbOzkwnjSJYMAxN491zPOC0wVNKCS18WqKvweo=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -357,6 +360,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -475,6 +479,7 @@ Ie4+h2DbivDx7ltDn514OV0Jm/hvybVnXBlS/24jGNBgTZuu3HTd7ODqsl0vLUas
 dGF8k2dqONU1ZO93+Y7yARbfIuzFOXHP6IW1zqPr5IWZX4WpEnCvrYxdeHTSdvQz
 OKVM2WhvDr3VqNkfG739JOaQxLveUU0feDcT02aMscUXqpU=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -594,6 +599,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -712,6 +718,7 @@ Dj9tHQIYQfWE9OQIiQXI5+gMXNmDkzrFJmU2Fq5u3I9JZzS54pVtP/chDoB12PGk
 /FG0d9HZ8VeMLZOrqgY0u6+SW3HnQT9zFKHW1hqFnPzAg3EZmSi0ecUuvTwb2zuU
 algxOYwPcHbOzkwnjSJYMAxN491zPOC0wVNKCS18WqKvweo=
 -----END CERTIFICATE-----
+DER #7
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -831,6 +838,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #8
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -949,6 +957,7 @@ Ie4+h2DbivDx7ltDn514OV0Jm/hvybVnXBlS/24jGNBgTZuu3HTd7ODqsl0vLUas
 dGF8k2dqONU1ZO93+Y7yARbfIuzFOXHP6IW1zqPr5IWZX4WpEnCvrYxdeHTSdvQz
 OKVM2WhvDr3VqNkfG739JOaQxLveUU0feDcT02aMscUXqpU=
 -----END CERTIFICATE-----
+DER #9
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1068,6 +1077,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #10
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1186,6 +1196,7 @@ Dj9tHQIYQfWE9OQIiQXI5+gMXNmDkzrFJmU2Fq5u3I9JZzS54pVtP/chDoB12PGk
 /FG0d9HZ8VeMLZOrqgY0u6+SW3HnQT9zFKHW1hqFnPzAg3EZmSi0ecUuvTwb2zuU
 algxOYwPcHbOzkwnjSJYMAxN491zPOC0wVNKCS18WqKvweo=
 -----END CERTIFICATE-----
+DER #11
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1305,6 +1316,7 @@ ITO4ytyBHBO7v65Q5q7LLDZHWSjOHdN9sbxR3vyuiKvPlD7h1rSR6wjHTv1dGcNy
 TejdrbvbwymuwAj+9TJP8BYULuLPN7H93YBXVYeecSQ2aqdOXQjw+nvoC1QBpnbm
 ERxFnB83dX9Mfwg8eBOJM2EYEkTjP0GJvAeFbLC6pZ9jnW0=
 -----END CERTIFICATE-----
+DER #12
 Certificate:
     Data:
         Version: 3 (0x2)

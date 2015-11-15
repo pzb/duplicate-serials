@@ -1,6 +1,7 @@
 Issuer: CN=Cybertrust Japan Public CA G3,O=Cybertrust Japan Co.\, Ltd.,C=JP
 
-Duplicate Serial: 3B33BB628EBA4766D5D3DC3D3EB8C275E0560CF5
+Detected mulitple "DER" for serial: 3B33BB628EBA4766D5D3DC3D3EB8C275E0560CF5
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -113,6 +114,7 @@ c9w26Fujzi3Us6vv04q5kP5gKRpkPTbipDJTFTjugIuDimrW4C/gABGLQpGzSAmp
 K+PEANKCpI5zWgKjLNggovrUaNCvDMct1H+t1wXvF3kuwmaS9i/d3NtTu9xT06IB
 WlVSBXvxCbuyczUxCQcMPwJfr6C15Y53T41/cBClaGExSS0dwv0+TQ==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -236,6 +238,7 @@ qe7dvPLC6TfceDsCGSzU38eA1Jbd9nhTreL7uSc6jHB0oVexXeaKMSt9kC64rL92
 xBwnGqM3jPYUetzy09pbLqP7XDAoYNCGnreHtq6tz0+4CwM6kJW8zYthTgpHGJCb
 I7i65jDaLL8I4/oSoHxgpO8=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -348,6 +351,7 @@ c9w26Fujzi3Us6vv04q5kP5gKRpkPTbipDJTFTjugIuDimrW4C/gABGLQpGzSAmp
 K+PEANKCpI5zWgKjLNggovrUaNCvDMct1H+t1wXvF3kuwmaS9i/d3NtTu9xT06IB
 WlVSBXvxCbuyczUxCQcMPwJfr6C15Y53T41/cBClaGExSS0dwv0+TQ==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -471,6 +475,7 @@ qe7dvPLC6TfceDsCGSzU38eA1Jbd9nhTreL7uSc6jHB0oVexXeaKMSt9kC64rL92
 xBwnGqM3jPYUetzy09pbLqP7XDAoYNCGnreHtq6tz0+4CwM6kJW8zYthTgpHGJCb
 I7i65jDaLL8I4/oSoHxgpO8=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -583,6 +588,7 @@ c9w26Fujzi3Us6vv04q5kP5gKRpkPTbipDJTFTjugIuDimrW4C/gABGLQpGzSAmp
 K+PEANKCpI5zWgKjLNggovrUaNCvDMct1H+t1wXvF3kuwmaS9i/d3NtTu9xT06IB
 WlVSBXvxCbuyczUxCQcMPwJfr6C15Y53T41/cBClaGExSS0dwv0+TQ==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -707,7 +713,8 @@ xBwnGqM3jPYUetzy09pbLqP7XDAoYNCGnreHtq6tz0+4CwM6kJW8zYthTgpHGJCb
 I7i65jDaLL8I4/oSoHxgpO8=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 5F7806CE13EC577FC33015AB0380C0A429900404
+Detected mulitple "DER" for serial: 5F7806CE13EC577FC33015AB0380C0A429900404
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -820,6 +827,7 @@ zMrFa1CdBv/2YfvsF5eZQXAlQI+LjetcCP9LUtQekGplTUoWUf7E70VEza7GffC4
 kBv8DUfI/zrWpEgjCy4bw0bk1TNIMKZ3Lrg2Mujt+4+a+Y2onNsX66vLvyKlh0eu
 pgFkxko61w==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -945,6 +953,7 @@ V0Zuea15oklxiTP92TH7wJNlVuSm61uMMtW06J69NHZdFJmenwU+e+ZZfvytjH9e
 2R7jFEFIuI8+34lKWYYEmyjPEQI6+QiMvAV/IM99NeH7x2wld2Xp48bogdgzgWuZ
 mzSkH9bSmXM=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1057,6 +1066,7 @@ zMrFa1CdBv/2YfvsF5eZQXAlQI+LjetcCP9LUtQekGplTUoWUf7E70VEza7GffC4
 kBv8DUfI/zrWpEgjCy4bw0bk1TNIMKZ3Lrg2Mujt+4+a+Y2onNsX66vLvyKlh0eu
 pgFkxko61w==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1182,6 +1192,7 @@ V0Zuea15oklxiTP92TH7wJNlVuSm61uMMtW06J69NHZdFJmenwU+e+ZZfvytjH9e
 2R7jFEFIuI8+34lKWYYEmyjPEQI6+QiMvAV/IM99NeH7x2wld2Xp48bogdgzgWuZ
 mzSkH9bSmXM=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1294,6 +1305,7 @@ zMrFa1CdBv/2YfvsF5eZQXAlQI+LjetcCP9LUtQekGplTUoWUf7E70VEza7GffC4
 kBv8DUfI/zrWpEgjCy4bw0bk1TNIMKZ3Lrg2Mujt+4+a+Y2onNsX66vLvyKlh0eu
 pgFkxko61w==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1420,7 +1432,8 @@ V0Zuea15oklxiTP92TH7wJNlVuSm61uMMtW06J69NHZdFJmenwU+e+ZZfvytjH9e
 mzSkH9bSmXM=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 06530516D0F616B3D5B162A98F0BD003DA8358AD
+Detected mulitple "DER" for serial: 06530516D0F616B3D5B162A98F0BD003DA8358AD
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1546,6 +1559,7 @@ KXExpw57UIm0xA9oe9DmueKtAGpau+/JgN4Muo1v7sVgZ8MQrmisQ4UJzHDKCmsX
 hgE4vMpDpZ52bCShsOluMxtjI8LMrvl9qDi3T7aYevlcqeZE2v2kwODtNRLI9Q33
 2+NvcZyBvSKK8xd0EI1Ewk4w9Imw6esK4aSmSLp8eg+DsdcUN88DtMM=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1658,6 +1672,7 @@ mpVCNJ2BqeTZykzA5x42II1ei7Z1adHyWbGYOtFL8dQLFl5A6yzSc0M9kXeKWAtq
 Vr95bv149SM2jKgN/u3pPt0ejI6vLYZTuYIiqRbKynSKL2fsX8x7bnc3sN6TykpB
 0Klng/ieztYAe4DbnhdxSV98IJU4jjiUCa8KmRg8bJAOrsi+UPgneQ==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1783,6 +1798,7 @@ KXExpw57UIm0xA9oe9DmueKtAGpau+/JgN4Muo1v7sVgZ8MQrmisQ4UJzHDKCmsX
 hgE4vMpDpZ52bCShsOluMxtjI8LMrvl9qDi3T7aYevlcqeZE2v2kwODtNRLI9Q33
 2+NvcZyBvSKK8xd0EI1Ewk4w9Imw6esK4aSmSLp8eg+DsdcUN88DtMM=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -1895,6 +1911,7 @@ mpVCNJ2BqeTZykzA5x42II1ei7Z1adHyWbGYOtFL8dQLFl5A6yzSc0M9kXeKWAtq
 Vr95bv149SM2jKgN/u3pPt0ejI6vLYZTuYIiqRbKynSKL2fsX8x7bnc3sN6TykpB
 0Klng/ieztYAe4DbnhdxSV98IJU4jjiUCa8KmRg8bJAOrsi+UPgneQ==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2020,6 +2037,7 @@ KXExpw57UIm0xA9oe9DmueKtAGpau+/JgN4Muo1v7sVgZ8MQrmisQ4UJzHDKCmsX
 hgE4vMpDpZ52bCShsOluMxtjI8LMrvl9qDi3T7aYevlcqeZE2v2kwODtNRLI9Q33
 2+NvcZyBvSKK8xd0EI1Ewk4w9Imw6esK4aSmSLp8eg+DsdcUN88DtMM=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2133,7 +2151,8 @@ Vr95bv149SM2jKgN/u3pPt0ejI6vLYZTuYIiqRbKynSKL2fsX8x7bnc3sN6TykpB
 0Klng/ieztYAe4DbnhdxSV98IJU4jjiUCa8KmRg8bJAOrsi+UPgneQ==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 1997380A6ACC086FF5155A199ABF958781F4EE0E
+Detected mulitple "DER" for serial: 1997380A6ACC086FF5155A199ABF958781F4EE0E
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2260,6 +2279,7 @@ SmT4bRwphnDRYql3kHyTQif7jTCApc/Xtdx5smux/vFRoAnNORyAi88hu9AOMPBG
 YT+oJNPNPCcD9gk5VjfswJpdTHeWPSmvbOa25PJIAz0jFaCASg5XhlsM3rNdPwGC
 qN4OymvpJLGB83/mDh9rd1wIkWlN+GmpYw==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2372,6 +2392,7 @@ hvQG+qQah2dVeb/j5YAKpmP8DpWEsxpmHfZcqaKVSXwQ71XBTjQ2YvnEbIiLa/P0
 GRtqRvHgv+IBOL/0MnYMma5kcz3aIxhOL9Jz10OxkG6zEOSY5MMKY1c0gPnXtlpX
 ZRmzE48040cPUbTKgJJG34qidAdM
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2498,6 +2519,7 @@ SmT4bRwphnDRYql3kHyTQif7jTCApc/Xtdx5smux/vFRoAnNORyAi88hu9AOMPBG
 YT+oJNPNPCcD9gk5VjfswJpdTHeWPSmvbOa25PJIAz0jFaCASg5XhlsM3rNdPwGC
 qN4OymvpJLGB83/mDh9rd1wIkWlN+GmpYw==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2610,6 +2632,7 @@ hvQG+qQah2dVeb/j5YAKpmP8DpWEsxpmHfZcqaKVSXwQ71XBTjQ2YvnEbIiLa/P0
 GRtqRvHgv+IBOL/0MnYMma5kcz3aIxhOL9Jz10OxkG6zEOSY5MMKY1c0gPnXtlpX
 ZRmzE48040cPUbTKgJJG34qidAdM
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2736,6 +2759,7 @@ SmT4bRwphnDRYql3kHyTQif7jTCApc/Xtdx5smux/vFRoAnNORyAi88hu9AOMPBG
 YT+oJNPNPCcD9gk5VjfswJpdTHeWPSmvbOa25PJIAz0jFaCASg5XhlsM3rNdPwGC
 qN4OymvpJLGB83/mDh9rd1wIkWlN+GmpYw==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2849,7 +2873,8 @@ GRtqRvHgv+IBOL/0MnYMma5kcz3aIxhOL9Jz10OxkG6zEOSY5MMKY1c0gPnXtlpX
 ZRmzE48040cPUbTKgJJG34qidAdM
 -----END CERTIFICATE-----
 
-Duplicate Serial: 7B42A3F78F96BFC67445C8E81CD27871075BA99B
+Detected mulitple "DER" for serial: 7B42A3F78F96BFC67445C8E81CD27871075BA99B
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -2962,6 +2987,7 @@ H9QVPnhykl2Lc6faToCuUXs+y4vh0UW4nxYe2xx1eeaROpsxolSKZbQmb+ZEy2iz
 cTh60JULTmUwSJzAd3eQGfVt6rEjN5HZH/WQA9lrd1OJ8XJTlzsTSh4Ty6KCObDL
 ENJNh/NsesMFNdVS
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3087,6 +3113,7 @@ FX2JbF5wM0riOOOvRMyLjh1BU30mkoFsFlM7+u2HQjVmvSMW8LhU9oFM8/l7zPIu
 FuZFsq8TPxoMVQQBpPZXv9SpzXYDKbaCRnAacRcCHc/lXZRWE9QbDH82O/fWq3L8
 E1JQrhNZM7fLea9QNRHN
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3199,6 +3226,7 @@ H9QVPnhykl2Lc6faToCuUXs+y4vh0UW4nxYe2xx1eeaROpsxolSKZbQmb+ZEy2iz
 cTh60JULTmUwSJzAd3eQGfVt6rEjN5HZH/WQA9lrd1OJ8XJTlzsTSh4Ty6KCObDL
 ENJNh/NsesMFNdVS
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3324,6 +3352,7 @@ FX2JbF5wM0riOOOvRMyLjh1BU30mkoFsFlM7+u2HQjVmvSMW8LhU9oFM8/l7zPIu
 FuZFsq8TPxoMVQQBpPZXv9SpzXYDKbaCRnAacRcCHc/lXZRWE9QbDH82O/fWq3L8
 E1JQrhNZM7fLea9QNRHN
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3436,6 +3465,7 @@ H9QVPnhykl2Lc6faToCuUXs+y4vh0UW4nxYe2xx1eeaROpsxolSKZbQmb+ZEy2iz
 cTh60JULTmUwSJzAd3eQGfVt6rEjN5HZH/WQA9lrd1OJ8XJTlzsTSh4Ty6KCObDL
 ENJNh/NsesMFNdVS
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3562,7 +3592,8 @@ FuZFsq8TPxoMVQQBpPZXv9SpzXYDKbaCRnAacRcCHc/lXZRWE9QbDH82O/fWq3L8
 E1JQrhNZM7fLea9QNRHN
 -----END CERTIFICATE-----
 
-Duplicate Serial: 0FE4BC6CEC42DCD28AD71D6B22C29847D41D94DA
+Detected mulitple "DER" for serial: 0FE4BC6CEC42DCD28AD71D6B22C29847D41D94DA
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3675,6 +3706,7 @@ OmowtDjGeywNRgakmV5Y023wdGAJE1jiAIDWU0aLxiuX1h+OuQ36JiivFI6xqqVX
 aUWIOSXA/ToN47zgO1a7mTlheX4SarZ2TxPn1oIegwssEd67gVuCkvm4wjugAm6j
 +DmHK2JHpdLDwIF/c76WjmhWySwm0uL0lzAteCMLlU0FVFhqjz8=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3799,6 +3831,7 @@ P3Bj9iQUEspIyi5aIU38DsdyaIxLzjEAtJWelriEwVpAJXteAImmBCBxxCmQ1FlZ
 XMagzm1dCMWaUqW+xxMkYURZZFu9rAqeq2eAtNS1pfkhIZ6LcQSA3e9Hzb2XwR6x
 uZpeMRzlVRnswD+PKW5BidAA37YhIvTbcWGMSa41gUMVwCP8to87
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -3911,6 +3944,7 @@ OmowtDjGeywNRgakmV5Y023wdGAJE1jiAIDWU0aLxiuX1h+OuQ36JiivFI6xqqVX
 aUWIOSXA/ToN47zgO1a7mTlheX4SarZ2TxPn1oIegwssEd67gVuCkvm4wjugAm6j
 +DmHK2JHpdLDwIF/c76WjmhWySwm0uL0lzAteCMLlU0FVFhqjz8=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4035,6 +4069,7 @@ P3Bj9iQUEspIyi5aIU38DsdyaIxLzjEAtJWelriEwVpAJXteAImmBCBxxCmQ1FlZ
 XMagzm1dCMWaUqW+xxMkYURZZFu9rAqeq2eAtNS1pfkhIZ6LcQSA3e9Hzb2XwR6x
 uZpeMRzlVRnswD+PKW5BidAA37YhIvTbcWGMSa41gUMVwCP8to87
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4147,6 +4182,7 @@ OmowtDjGeywNRgakmV5Y023wdGAJE1jiAIDWU0aLxiuX1h+OuQ36JiivFI6xqqVX
 aUWIOSXA/ToN47zgO1a7mTlheX4SarZ2TxPn1oIegwssEd67gVuCkvm4wjugAm6j
 +DmHK2JHpdLDwIF/c76WjmhWySwm0uL0lzAteCMLlU0FVFhqjz8=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4272,7 +4308,8 @@ XMagzm1dCMWaUqW+xxMkYURZZFu9rAqeq2eAtNS1pfkhIZ6LcQSA3e9Hzb2XwR6x
 uZpeMRzlVRnswD+PKW5BidAA37YhIvTbcWGMSa41gUMVwCP8to87
 -----END CERTIFICATE-----
 
-Duplicate Serial: 2F2EC1BA2CA22F136A4EE0A4ED57472ED77C1383
+Detected mulitple "DER" for serial: 2F2EC1BA2CA22F136A4EE0A4ED57472ED77C1383
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4397,6 +4434,7 @@ OJz1VlZwtBPICoh8OGD8bUbgI77zAgfo3Fm636q3Xqa9FyA6KaWAi8uO6V1eaOq9
 ewXUa2e6sUhVaYvWX8n0bCw2ycDbm2EViXoY4y3+6o5BZ+HuocgiJFNMQcbO8T13
 HokOjlF8bxhhycizMChdwzy4yAU3ByU=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4509,6 +4547,7 @@ Fk1lMMBMgxXis++5oUa929o965SIOaKm1d3DKgUr1SSo02I2Hw5O72O3UpnsZ5TX
 8nyJV208tDdhwbYnUdHm9tsHExjW3yHdcTO2M1kZ9aGe55vJ1wEJv1lqEAWm2qKg
 8TG0RbA2+/wGppvat5BAiyzhI/l1
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4633,6 +4672,7 @@ OJz1VlZwtBPICoh8OGD8bUbgI77zAgfo3Fm636q3Xqa9FyA6KaWAi8uO6V1eaOq9
 ewXUa2e6sUhVaYvWX8n0bCw2ycDbm2EViXoY4y3+6o5BZ+HuocgiJFNMQcbO8T13
 HokOjlF8bxhhycizMChdwzy4yAU3ByU=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4745,6 +4785,7 @@ Fk1lMMBMgxXis++5oUa929o965SIOaKm1d3DKgUr1SSo02I2Hw5O72O3UpnsZ5TX
 8nyJV208tDdhwbYnUdHm9tsHExjW3yHdcTO2M1kZ9aGe55vJ1wEJv1lqEAWm2qKg
 8TG0RbA2+/wGppvat5BAiyzhI/l1
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4869,6 +4910,7 @@ OJz1VlZwtBPICoh8OGD8bUbgI77zAgfo3Fm636q3Xqa9FyA6KaWAi8uO6V1eaOq9
 ewXUa2e6sUhVaYvWX8n0bCw2ycDbm2EViXoY4y3+6o5BZ+HuocgiJFNMQcbO8T13
 HokOjlF8bxhhycizMChdwzy4yAU3ByU=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -4982,7 +5024,8 @@ Fk1lMMBMgxXis++5oUa929o965SIOaKm1d3DKgUr1SSo02I2Hw5O72O3UpnsZ5TX
 8TG0RbA2+/wGppvat5BAiyzhI/l1
 -----END CERTIFICATE-----
 
-Duplicate Serial: 3C2BF7333F3915B8BFA1CBF92F8F03CB4023CF36
+Detected mulitple "DER" for serial: 3C2BF7333F3915B8BFA1CBF92F8F03CB4023CF36
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5096,6 +5139,7 @@ KpKXP/NdGPr7aWSZBjVv3dv7nT2PIC2zSHLNitkvqU+l8kcbk9ZMKmfgUWwRjlQn
 QRs6Ax2O4W2P1Ilap6v0ebZxQO/ayzy4/AaVbUCpI/F1DtxF3T9Tx0LxI8CGbWkD
 c2yYIIsAIm+7GBP0iAPA3Q==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5221,6 +5265,7 @@ b7wgWULGfo8qkpwBsJfGaHkILTZ2P1EvxHgt3HgMlY8VSyKMNd3+1t6qQlMP7xrc
 0hqqDcIENJ63CCHCyNYV81rgOGaCVIUbyVmcKM65IF6V1+TKh9leDnmm7QZzEu3e
 GQrKef8nzP31DKKJC0CDPLZv
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5334,6 +5379,7 @@ KpKXP/NdGPr7aWSZBjVv3dv7nT2PIC2zSHLNitkvqU+l8kcbk9ZMKmfgUWwRjlQn
 QRs6Ax2O4W2P1Ilap6v0ebZxQO/ayzy4/AaVbUCpI/F1DtxF3T9Tx0LxI8CGbWkD
 c2yYIIsAIm+7GBP0iAPA3Q==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5459,6 +5505,7 @@ b7wgWULGfo8qkpwBsJfGaHkILTZ2P1EvxHgt3HgMlY8VSyKMNd3+1t6qQlMP7xrc
 0hqqDcIENJ63CCHCyNYV81rgOGaCVIUbyVmcKM65IF6V1+TKh9leDnmm7QZzEu3e
 GQrKef8nzP31DKKJC0CDPLZv
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5572,6 +5619,7 @@ KpKXP/NdGPr7aWSZBjVv3dv7nT2PIC2zSHLNitkvqU+l8kcbk9ZMKmfgUWwRjlQn
 QRs6Ax2O4W2P1Ilap6v0ebZxQO/ayzy4/AaVbUCpI/F1DtxF3T9Tx0LxI8CGbWkD
 c2yYIIsAIm+7GBP0iAPA3Q==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5698,7 +5746,8 @@ b7wgWULGfo8qkpwBsJfGaHkILTZ2P1EvxHgt3HgMlY8VSyKMNd3+1t6qQlMP7xrc
 GQrKef8nzP31DKKJC0CDPLZv
 -----END CERTIFICATE-----
 
-Duplicate Serial: 4D862D7CF7DC4FB9549F8CBECCC7AFDE0EA5E924
+Detected mulitple "DER" for serial: 4D862D7CF7DC4FB9549F8CBECCC7AFDE0EA5E924
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5823,6 +5872,7 @@ xwuZanEkuiudQKTmcA2LvRgh/F3APeNEIaeO/FWinrw3OlnB6wOQg0P/rxExUwKR
 sDXPk+LCcoZgtTsB1vrNj6M+ti26/zHEPClQbB4vlJz0sbqF3J8f/nqh22H88pgw
 PD/1QTKqWDlxpt0tba15IoX1K34+KUFadMFb7o50Ee/dsVJ8Lig=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -5935,6 +5985,7 @@ sPxFvUB4BS+pmlNZMflwGNH/xzDkNS2S6oNKlFhYYPXSJwLhuMO0Gdhx07vNleMT
 p6r1CxYEgkluw0um6nVWZWGwjejbpUOiTxH7iDeU4DjPQSVfI7+aDFDvC63C6p/q
 5FWbqGaMrkOQApA+vvbmdQdOoI+JJrghz0/Z4lA5RIF6PfA=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6059,6 +6110,7 @@ xwuZanEkuiudQKTmcA2LvRgh/F3APeNEIaeO/FWinrw3OlnB6wOQg0P/rxExUwKR
 sDXPk+LCcoZgtTsB1vrNj6M+ti26/zHEPClQbB4vlJz0sbqF3J8f/nqh22H88pgw
 PD/1QTKqWDlxpt0tba15IoX1K34+KUFadMFb7o50Ee/dsVJ8Lig=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6171,6 +6223,7 @@ sPxFvUB4BS+pmlNZMflwGNH/xzDkNS2S6oNKlFhYYPXSJwLhuMO0Gdhx07vNleMT
 p6r1CxYEgkluw0um6nVWZWGwjejbpUOiTxH7iDeU4DjPQSVfI7+aDFDvC63C6p/q
 5FWbqGaMrkOQApA+vvbmdQdOoI+JJrghz0/Z4lA5RIF6PfA=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6295,6 +6348,7 @@ xwuZanEkuiudQKTmcA2LvRgh/F3APeNEIaeO/FWinrw3OlnB6wOQg0P/rxExUwKR
 sDXPk+LCcoZgtTsB1vrNj6M+ti26/zHEPClQbB4vlJz0sbqF3J8f/nqh22H88pgw
 PD/1QTKqWDlxpt0tba15IoX1K34+KUFadMFb7o50Ee/dsVJ8Lig=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6408,7 +6462,8 @@ p6r1CxYEgkluw0um6nVWZWGwjejbpUOiTxH7iDeU4DjPQSVfI7+aDFDvC63C6p/q
 5FWbqGaMrkOQApA+vvbmdQdOoI+JJrghz0/Z4lA5RIF6PfA=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 0D24B3BD7FE20ACCD3B0DF8CC3E3C68AF14ADB40
+Detected mulitple "DER" for serial: 0D24B3BD7FE20ACCD3B0DF8CC3E3C68AF14ADB40
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6521,6 +6576,7 @@ ty3wCk5+guXMop5kxV7icrZbkY4htUVQ4qYxDxr1i/BIvPWivKrgBRn9uUGsknuH
 M+RRBuuN+91naZG4PO7o7kzyn/xAmwFif+v/IFSnMA/6qnn2xyetD0m4xEkgUGsO
 rIizZcs=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6646,6 +6702,7 @@ VGsAreJDoCOI862TRW1+Sdv5xx/t2fLymRY7BS3RlJxxNVgX1xc7rjdwrG6uSuxN
 TGaysdwYG4AUj/0IG4FW7vBnKE+Tmmni8namfS1WcBolFJXQCufHDiTvXEbFutKF
 E+ty46aNUd9p
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6758,6 +6815,7 @@ ty3wCk5+guXMop5kxV7icrZbkY4htUVQ4qYxDxr1i/BIvPWivKrgBRn9uUGsknuH
 M+RRBuuN+91naZG4PO7o7kzyn/xAmwFif+v/IFSnMA/6qnn2xyetD0m4xEkgUGsO
 rIizZcs=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6883,6 +6941,7 @@ VGsAreJDoCOI862TRW1+Sdv5xx/t2fLymRY7BS3RlJxxNVgX1xc7rjdwrG6uSuxN
 TGaysdwYG4AUj/0IG4FW7vBnKE+Tmmni8namfS1WcBolFJXQCufHDiTvXEbFutKF
 E+ty46aNUd9p
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -6995,6 +7054,7 @@ ty3wCk5+guXMop5kxV7icrZbkY4htUVQ4qYxDxr1i/BIvPWivKrgBRn9uUGsknuH
 M+RRBuuN+91naZG4PO7o7kzyn/xAmwFif+v/IFSnMA/6qnn2xyetD0m4xEkgUGsO
 rIizZcs=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7121,7 +7181,8 @@ TGaysdwYG4AUj/0IG4FW7vBnKE+Tmmni8namfS1WcBolFJXQCufHDiTvXEbFutKF
 E+ty46aNUd9p
 -----END CERTIFICATE-----
 
-Duplicate Serial: 716ABC53C16A0EA2564F82C7F3182384FE2C91AB
+Detected mulitple "DER" for serial: 716ABC53C16A0EA2564F82C7F3182384FE2C91AB
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7234,6 +7295,7 @@ UGVkLmiDCGXCsZq2lXbpy6k8U5CCdI7xRIM7PdsdCiN3TEbHqrmeWPcMu8o15Vst
 2b+zLG8SBYe7MZhUCgi2TrU6XT1OSGOpW0s+oOjRj/FdmU4vj8QPCyDcX0jHmE9t
 QiTyZQKcol5opxVsmi76sV7UvzIuP7gcf5P1o78KLQJPQYUEKrwYJT3d1bYWGdg=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7361,6 +7423,7 @@ IZOqJt+fKNg5ckAIpEH8imfkTNiTbcUG+OsZHXreFZAftBm9od/n8jU8QvnjOxw8
 FLufIrZWxZcNoXXHsZe2EY9Z78ueUzz3ka1uzCnNCYUw0b/zAvs3DbBBiXAVftd3
 TA==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7473,6 +7536,7 @@ UGVkLmiDCGXCsZq2lXbpy6k8U5CCdI7xRIM7PdsdCiN3TEbHqrmeWPcMu8o15Vst
 2b+zLG8SBYe7MZhUCgi2TrU6XT1OSGOpW0s+oOjRj/FdmU4vj8QPCyDcX0jHmE9t
 QiTyZQKcol5opxVsmi76sV7UvzIuP7gcf5P1o78KLQJPQYUEKrwYJT3d1bYWGdg=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7600,6 +7664,7 @@ IZOqJt+fKNg5ckAIpEH8imfkTNiTbcUG+OsZHXreFZAftBm9od/n8jU8QvnjOxw8
 FLufIrZWxZcNoXXHsZe2EY9Z78ueUzz3ka1uzCnNCYUw0b/zAvs3DbBBiXAVftd3
 TA==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7712,6 +7777,7 @@ UGVkLmiDCGXCsZq2lXbpy6k8U5CCdI7xRIM7PdsdCiN3TEbHqrmeWPcMu8o15Vst
 2b+zLG8SBYe7MZhUCgi2TrU6XT1OSGOpW0s+oOjRj/FdmU4vj8QPCyDcX0jHmE9t
 QiTyZQKcol5opxVsmi76sV7UvzIuP7gcf5P1o78KLQJPQYUEKrwYJT3d1bYWGdg=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7840,7 +7906,8 @@ FLufIrZWxZcNoXXHsZe2EY9Z78ueUzz3ka1uzCnNCYUw0b/zAvs3DbBBiXAVftd3
 TA==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 05611D871CF06E3B688A1A623B30199512AE6CD6
+Detected mulitple "DER" for serial: 05611D871CF06E3B688A1A623B30199512AE6CD6
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -7967,6 +8034,7 @@ D+5LiadnxxJNRDNriT6xR5G9oXX6iOViX8V2V7VQFFhDbsYbekVi9Q0W7CLgRNtM
 Hwdlmxmb7HTlMhgBKUo3llaPgOYrS51jND2qz2XSm1qa1RbR4dU1fifpS5RlRp6h
 Yzp44j+gvhxbNGQ=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8080,6 +8148,7 @@ Z8jYamkBnpWUtxd2zwIYkJf+6s3xOZ6SZCXQNbENU1d9c1Y6Tj2onnBr7DF5wfFd
 A3UQ4iaAluACHItR1l8IYj1awLi9tKA6w4IXhrvSu8XvynK6CVN/SBUs/k9YuWbk
 uKSYgYyXuQ==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8206,6 +8275,7 @@ D+5LiadnxxJNRDNriT6xR5G9oXX6iOViX8V2V7VQFFhDbsYbekVi9Q0W7CLgRNtM
 Hwdlmxmb7HTlMhgBKUo3llaPgOYrS51jND2qz2XSm1qa1RbR4dU1fifpS5RlRp6h
 Yzp44j+gvhxbNGQ=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8319,6 +8389,7 @@ Z8jYamkBnpWUtxd2zwIYkJf+6s3xOZ6SZCXQNbENU1d9c1Y6Tj2onnBr7DF5wfFd
 A3UQ4iaAluACHItR1l8IYj1awLi9tKA6w4IXhrvSu8XvynK6CVN/SBUs/k9YuWbk
 uKSYgYyXuQ==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8445,6 +8516,7 @@ D+5LiadnxxJNRDNriT6xR5G9oXX6iOViX8V2V7VQFFhDbsYbekVi9Q0W7CLgRNtM
 Hwdlmxmb7HTlMhgBKUo3llaPgOYrS51jND2qz2XSm1qa1RbR4dU1fifpS5RlRp6h
 Yzp44j+gvhxbNGQ=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8559,7 +8631,8 @@ A3UQ4iaAluACHItR1l8IYj1awLi9tKA6w4IXhrvSu8XvynK6CVN/SBUs/k9YuWbk
 uKSYgYyXuQ==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 7B464D893FA53A95BABF2E840C596794E7ABE1AC
+Detected mulitple "DER" for serial: 7B464D893FA53A95BABF2E840C596794E7ABE1AC
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8672,6 +8745,7 @@ XT7+xakYUF81Kg+uv4TkVN9k5H6OglVm4EvCB5XMb+nELpDIaIYkL+0jdqsx2QU9
 SpLQkj1cJbhXlOYhTnfAmZKS96xcgbDgA0FQ/0FLGSTTd7HzcBnI0KxQ9Lr0GAkm
 c5/46TMjV3xadMo+xIo+SyR/qd9j079/W/L3vkFYDhoYDmr3/PBW4wc=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8796,6 +8870,7 @@ Rbup84HL8pHhHrk/KXSN2S3mBQSaHhn2emx1jz9rYyFbwuVBr7kH/Kx83HAuHxFE
 +t48Awh0C9RiT0DT/qgAf6C892zpIdmA1XygyN6bYmcxti6kMySKk2RIruCEZGJ2
 YYaGVxsO92Sq+2pUwvcUX1xYWngUQrWlITmQZpi8G6yP3wkeLeb+PL/sYJZS
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -8908,6 +8983,7 @@ XT7+xakYUF81Kg+uv4TkVN9k5H6OglVm4EvCB5XMb+nELpDIaIYkL+0jdqsx2QU9
 SpLQkj1cJbhXlOYhTnfAmZKS96xcgbDgA0FQ/0FLGSTTd7HzcBnI0KxQ9Lr0GAkm
 c5/46TMjV3xadMo+xIo+SyR/qd9j079/W/L3vkFYDhoYDmr3/PBW4wc=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9032,6 +9108,7 @@ Rbup84HL8pHhHrk/KXSN2S3mBQSaHhn2emx1jz9rYyFbwuVBr7kH/Kx83HAuHxFE
 +t48Awh0C9RiT0DT/qgAf6C892zpIdmA1XygyN6bYmcxti6kMySKk2RIruCEZGJ2
 YYaGVxsO92Sq+2pUwvcUX1xYWngUQrWlITmQZpi8G6yP3wkeLeb+PL/sYJZS
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9144,6 +9221,7 @@ XT7+xakYUF81Kg+uv4TkVN9k5H6OglVm4EvCB5XMb+nELpDIaIYkL+0jdqsx2QU9
 SpLQkj1cJbhXlOYhTnfAmZKS96xcgbDgA0FQ/0FLGSTTd7HzcBnI0KxQ9Lr0GAkm
 c5/46TMjV3xadMo+xIo+SyR/qd9j079/W/L3vkFYDhoYDmr3/PBW4wc=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9269,7 +9347,8 @@ Rbup84HL8pHhHrk/KXSN2S3mBQSaHhn2emx1jz9rYyFbwuVBr7kH/Kx83HAuHxFE
 YYaGVxsO92Sq+2pUwvcUX1xYWngUQrWlITmQZpi8G6yP3wkeLeb+PL/sYJZS
 -----END CERTIFICATE-----
 
-Duplicate Serial: 7FE9B1826CE047B4C209EF8D0C941089B6B4B012
+Detected mulitple "DER" for serial: 7FE9B1826CE047B4C209EF8D0C941089B6B4B012
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9395,6 +9474,7 @@ JIwtsF56bAiIuo89Tw2ZOQl1q1f4Azoo81Axc2DhNJQ6+5UF7X1Pwhb+HSKDypuE
 vUbAi56amzKjxLWVed5oHUMmIuWY38Lgp2yoRKLy9bS3h9yGBaKru6dtft5GcXmb
 GjBWTIW+mxINthTU
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9507,6 +9587,7 @@ KjKz4xkjvEC85dshEAMqQgyDyM/u3Bhm/TPEQxNOW7nFocu3ozbwRIisKnYeMgV8
 2Y8ZZqEmlQR3sezGZc2KNipbdrhPJQdA9ANOy1T1f03OjQJuWi2LV7qoLkBXc1hF
 7S3+9ExiSwEcksg=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9632,6 +9713,7 @@ JIwtsF56bAiIuo89Tw2ZOQl1q1f4Azoo81Axc2DhNJQ6+5UF7X1Pwhb+HSKDypuE
 vUbAi56amzKjxLWVed5oHUMmIuWY38Lgp2yoRKLy9bS3h9yGBaKru6dtft5GcXmb
 GjBWTIW+mxINthTU
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9744,6 +9826,7 @@ KjKz4xkjvEC85dshEAMqQgyDyM/u3Bhm/TPEQxNOW7nFocu3ozbwRIisKnYeMgV8
 2Y8ZZqEmlQR3sezGZc2KNipbdrhPJQdA9ANOy1T1f03OjQJuWi2LV7qoLkBXc1hF
 7S3+9ExiSwEcksg=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9869,6 +9952,7 @@ JIwtsF56bAiIuo89Tw2ZOQl1q1f4Azoo81Axc2DhNJQ6+5UF7X1Pwhb+HSKDypuE
 vUbAi56amzKjxLWVed5oHUMmIuWY38Lgp2yoRKLy9bS3h9yGBaKru6dtft5GcXmb
 GjBWTIW+mxINthTU
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -9982,7 +10066,8 @@ KjKz4xkjvEC85dshEAMqQgyDyM/u3Bhm/TPEQxNOW7nFocu3ozbwRIisKnYeMgV8
 7S3+9ExiSwEcksg=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 174CD14777FD5D6AF594D96F1D1557817513C0AD
+Detected mulitple "DER" for serial: 174CD14777FD5D6AF594D96F1D1557817513C0AD
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10107,6 +10192,7 @@ AzGhckrEmcJFsFr2TEWOGxOCOr38HbKiXoy7GxqIuU1gUxMN3Ged3e+ai8quM1L+
 hL+VchTvJBzK3floTA7I5YIjT6aq2MqnVpWpFZC+6lvMjqQEnDdSu6aEfiNcKQoN
 fDbT
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10218,6 +10304,7 @@ gbM9fmVvIAZAmj5eDWiU0ecVEVY1wBVgWMTOCank8RUD/99QzsVHTBMh8MxilBRj
 29cwU19fp1txBnYRP+v6DEHRRLN2hwwrnhCNKi9kb3s6fzSSv10lXojrb0+QTP59
 sjY7AB/Kq3TwV0EzzHTnVelWf6TiAQhY/JB9ZYrze+1hAQGz6v9lDfs2gzU0j+TV
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10342,6 +10429,7 @@ AzGhckrEmcJFsFr2TEWOGxOCOr38HbKiXoy7GxqIuU1gUxMN3Ged3e+ai8quM1L+
 hL+VchTvJBzK3floTA7I5YIjT6aq2MqnVpWpFZC+6lvMjqQEnDdSu6aEfiNcKQoN
 fDbT
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10453,6 +10541,7 @@ gbM9fmVvIAZAmj5eDWiU0ecVEVY1wBVgWMTOCank8RUD/99QzsVHTBMh8MxilBRj
 29cwU19fp1txBnYRP+v6DEHRRLN2hwwrnhCNKi9kb3s6fzSSv10lXojrb0+QTP59
 sjY7AB/Kq3TwV0EzzHTnVelWf6TiAQhY/JB9ZYrze+1hAQGz6v9lDfs2gzU0j+TV
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10577,6 +10666,7 @@ AzGhckrEmcJFsFr2TEWOGxOCOr38HbKiXoy7GxqIuU1gUxMN3Ged3e+ai8quM1L+
 hL+VchTvJBzK3floTA7I5YIjT6aq2MqnVpWpFZC+6lvMjqQEnDdSu6aEfiNcKQoN
 fDbT
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10689,7 +10779,8 @@ gbM9fmVvIAZAmj5eDWiU0ecVEVY1wBVgWMTOCank8RUD/99QzsVHTBMh8MxilBRj
 sjY7AB/Kq3TwV0EzzHTnVelWf6TiAQhY/JB9ZYrze+1hAQGz6v9lDfs2gzU0j+TV
 -----END CERTIFICATE-----
 
-Duplicate Serial: 6158A3EB430A62385ECD8BAC3025A7A6FDF9C048
+Detected mulitple "DER" for serial: 6158A3EB430A62385ECD8BAC3025A7A6FDF9C048
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10802,6 +10893,7 @@ MD1ebUcAKPz3AvvF5mLfwAsLhQPMPnuZ88s3L9Mf0UrDGx/hJG+2s0Vgp/pH4liC
 j0IEDmsebhNixNo88//6YQqElGHKiY+jNEQTIrrNhr7m3+uRgSYlFBONYv2G1LCP
 SzwMuesoEG+m8g0PpBsbc7T9ju9Dc4xLXUznMuHRng==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -10928,6 +11020,7 @@ ti3GxaAv+nv1+WYYQNg6IC0V0B27qevbAa6FBd5SEnfK6XqVT/iNPCljOmLflJFg
 cH+jIBRb7BldEOaikEPKDcUJnLWAg2AppwFR2k7GbdHlhwt8ggVnTD7Uha+TgSU9
 ofNBMA7KHX3iGcuTInvtVHxIaZtEjoWpzKo82Cocqo8nKg==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11040,6 +11133,7 @@ MD1ebUcAKPz3AvvF5mLfwAsLhQPMPnuZ88s3L9Mf0UrDGx/hJG+2s0Vgp/pH4liC
 j0IEDmsebhNixNo88//6YQqElGHKiY+jNEQTIrrNhr7m3+uRgSYlFBONYv2G1LCP
 SzwMuesoEG+m8g0PpBsbc7T9ju9Dc4xLXUznMuHRng==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11166,6 +11260,7 @@ ti3GxaAv+nv1+WYYQNg6IC0V0B27qevbAa6FBd5SEnfK6XqVT/iNPCljOmLflJFg
 cH+jIBRb7BldEOaikEPKDcUJnLWAg2AppwFR2k7GbdHlhwt8ggVnTD7Uha+TgSU9
 ofNBMA7KHX3iGcuTInvtVHxIaZtEjoWpzKo82Cocqo8nKg==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11278,6 +11373,7 @@ MD1ebUcAKPz3AvvF5mLfwAsLhQPMPnuZ88s3L9Mf0UrDGx/hJG+2s0Vgp/pH4liC
 j0IEDmsebhNixNo88//6YQqElGHKiY+jNEQTIrrNhr7m3+uRgSYlFBONYv2G1LCP
 SzwMuesoEG+m8g0PpBsbc7T9ju9Dc4xLXUznMuHRng==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11405,7 +11501,8 @@ cH+jIBRb7BldEOaikEPKDcUJnLWAg2AppwFR2k7GbdHlhwt8ggVnTD7Uha+TgSU9
 ofNBMA7KHX3iGcuTInvtVHxIaZtEjoWpzKo82Cocqo8nKg==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 292A42F265C081224780CDE348A996AC0AE876C6
+Detected mulitple "DER" for serial: 292A42F265C081224780CDE348A996AC0AE876C6
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11518,6 +11615,7 @@ ImDLd/DjQqtdrYiLzDZ7dVPR1K3oYW3FRfc/5reqTg39Wenph9oOpoSnRBefaGf4
 2Z9rT4ADzSKhzdG0wyDZfgeB3ZAb6LBJdEUKELSzM3mRjvDYg7luPGPc6YfI4/8d
 NJVqfucAdYzQaK11ANdddUS7VcxvYXylOQ==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11644,6 +11742,7 @@ SNlJ7uE0mTpImxmqX/1Bxm6uDbKexIxCORGeSGxfYdY9H6MkSBxEYy/1ihxVEfgZ
 dWtpn++pAJzJ55FzsM4QyP/t2UGvFI5kQaNl8QGSwuSbrBMv3g84eZcHugsss/V0
 dq00hTHWve5uXR9Ns648G8YRnHfewG0i87o=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11756,6 +11855,7 @@ ImDLd/DjQqtdrYiLzDZ7dVPR1K3oYW3FRfc/5reqTg39Wenph9oOpoSnRBefaGf4
 2Z9rT4ADzSKhzdG0wyDZfgeB3ZAb6LBJdEUKELSzM3mRjvDYg7luPGPc6YfI4/8d
 NJVqfucAdYzQaK11ANdddUS7VcxvYXylOQ==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11882,6 +11982,7 @@ SNlJ7uE0mTpImxmqX/1Bxm6uDbKexIxCORGeSGxfYdY9H6MkSBxEYy/1ihxVEfgZ
 dWtpn++pAJzJ55FzsM4QyP/t2UGvFI5kQaNl8QGSwuSbrBMv3g84eZcHugsss/V0
 dq00hTHWve5uXR9Ns648G8YRnHfewG0i87o=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -11994,6 +12095,7 @@ ImDLd/DjQqtdrYiLzDZ7dVPR1K3oYW3FRfc/5reqTg39Wenph9oOpoSnRBefaGf4
 2Z9rT4ADzSKhzdG0wyDZfgeB3ZAb6LBJdEUKELSzM3mRjvDYg7luPGPc6YfI4/8d
 NJVqfucAdYzQaK11ANdddUS7VcxvYXylOQ==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12121,7 +12223,8 @@ dWtpn++pAJzJ55FzsM4QyP/t2UGvFI5kQaNl8QGSwuSbrBMv3g84eZcHugsss/V0
 dq00hTHWve5uXR9Ns648G8YRnHfewG0i87o=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 165A43C6B4ACA9195820A8DEC5278338374E3842
+Detected mulitple "DER" for serial: 165A43C6B4ACA9195820A8DEC5278338374E3842
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12233,6 +12336,7 @@ IEWKc3yniXs1F2k/GZe7RBCPrdmQ5Z6sNSiTOrnMieK71Kqq9O52WmBlxdPn0dik
 3gkrrCqzWd82lhldl/0b14FAuHr3t6neZBhL8wn5PKVjQ704PGaBIzaKL0FRZCZ1
 hgi2e2Ofv0S516vXFnwyWZORJledMqbZlpCvfglQ5RIPVHOuT6FMgV8pN3E=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12357,6 +12461,7 @@ Dyea30Un81b5T3sCIzNkpCyMKnH0wPEv+eiWPg9qS+2LbJzgs4/P2LWElR0n/Yh0
 F/Ys3UZvHH9k56KmL1n8uFil3rfhscmLkc5McuIqrfIn8+kcUnkGyfT+MKyrFA49
 /4sU3ZFDDswJjvTuagTuL93edGOE5BJTA+yLbkajl0+mgmk9D7ssv86bngdtlQ==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12468,6 +12573,7 @@ IEWKc3yniXs1F2k/GZe7RBCPrdmQ5Z6sNSiTOrnMieK71Kqq9O52WmBlxdPn0dik
 3gkrrCqzWd82lhldl/0b14FAuHr3t6neZBhL8wn5PKVjQ704PGaBIzaKL0FRZCZ1
 hgi2e2Ofv0S516vXFnwyWZORJledMqbZlpCvfglQ5RIPVHOuT6FMgV8pN3E=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12592,6 +12698,7 @@ Dyea30Un81b5T3sCIzNkpCyMKnH0wPEv+eiWPg9qS+2LbJzgs4/P2LWElR0n/Yh0
 F/Ys3UZvHH9k56KmL1n8uFil3rfhscmLkc5McuIqrfIn8+kcUnkGyfT+MKyrFA49
 /4sU3ZFDDswJjvTuagTuL93edGOE5BJTA+yLbkajl0+mgmk9D7ssv86bngdtlQ==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12703,6 +12810,7 @@ IEWKc3yniXs1F2k/GZe7RBCPrdmQ5Z6sNSiTOrnMieK71Kqq9O52WmBlxdPn0dik
 3gkrrCqzWd82lhldl/0b14FAuHr3t6neZBhL8wn5PKVjQ704PGaBIzaKL0FRZCZ1
 hgi2e2Ofv0S516vXFnwyWZORJledMqbZlpCvfglQ5RIPVHOuT6FMgV8pN3E=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12828,7 +12936,8 @@ F/Ys3UZvHH9k56KmL1n8uFil3rfhscmLkc5McuIqrfIn8+kcUnkGyfT+MKyrFA49
 /4sU3ZFDDswJjvTuagTuL93edGOE5BJTA+yLbkajl0+mgmk9D7ssv86bngdtlQ==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 4BECEA1BE9E6EBC98BEA777970CCA43262F87F01
+Detected mulitple "DER" for serial: 4BECEA1BE9E6EBC98BEA777970CCA43262F87F01
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -12957,6 +13066,7 @@ zORFPb0fqTFtrJCYSlvHM3MoNjRZmZXX3MbxNzqsVyFWOdpaOj6QcAjGXrzP0k62
 ynUUTT+rDL5r4vuJCXorovDZRYKTd1gQDk8HDp21xV9u/v4X5FbXvSipcQ72l6aC
 y/4EY3Z/O7ws
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13070,6 +13180,7 @@ rhRw9/7RIlBMdTKgXq3RwMju/sPwZtb4xE47PMlkqg7Q58h/aghvIzgyhdYxL8Vi
 q0hafdlXuhoHiN6KGm7H6+EzEpeBF4cmEcDwo/WghtKeF1F17RUjFz7N7fmlbBjv
 5bzompFemQ==
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13198,6 +13309,7 @@ zORFPb0fqTFtrJCYSlvHM3MoNjRZmZXX3MbxNzqsVyFWOdpaOj6QcAjGXrzP0k62
 ynUUTT+rDL5r4vuJCXorovDZRYKTd1gQDk8HDp21xV9u/v4X5FbXvSipcQ72l6aC
 y/4EY3Z/O7ws
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13311,6 +13423,7 @@ rhRw9/7RIlBMdTKgXq3RwMju/sPwZtb4xE47PMlkqg7Q58h/aghvIzgyhdYxL8Vi
 q0hafdlXuhoHiN6KGm7H6+EzEpeBF4cmEcDwo/WghtKeF1F17RUjFz7N7fmlbBjv
 5bzompFemQ==
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13439,6 +13552,7 @@ zORFPb0fqTFtrJCYSlvHM3MoNjRZmZXX3MbxNzqsVyFWOdpaOj6QcAjGXrzP0k62
 ynUUTT+rDL5r4vuJCXorovDZRYKTd1gQDk8HDp21xV9u/v4X5FbXvSipcQ72l6aC
 y/4EY3Z/O7ws
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13553,7 +13667,8 @@ q0hafdlXuhoHiN6KGm7H6+EzEpeBF4cmEcDwo/WghtKeF1F17RUjFz7N7fmlbBjv
 5bzompFemQ==
 -----END CERTIFICATE-----
 
-Duplicate Serial: 0EACE88D3341D15FB3C0699A2BC52D4AEF11AD15
+Detected mulitple "DER" for serial: 0EACE88D3341D15FB3C0699A2BC52D4AEF11AD15
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13666,6 +13781,7 @@ gXexD6lezt6kKIfCHp66o1B3mu0mdouxNDFNgUb2An9FzeXfsKCY0hSbA69L3nBm
 3J0YS3/H//mekPt9+TCxMkEy3FWh0LHLpYpJcXTJ6MImysYfMPswkPUFtAXPdjzo
 TDsRWcNvwZ+uufUQVTvItg==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13791,6 +13907,7 @@ MhWtJywThBkcVnjXtKNA00ohMspd/hKwOwvoalDtdFiZjdCmrw3ZZ2gCNAiQJymF
 dJEzcr7qejszPANDIMDdj8OlLQCcEp3b3hWFbHTKMGBx3Wai+Mchvg+RNj8PYddw
 tySPHnh+Z68Jn/0MnA+XJE8Wl58=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -13903,6 +14020,7 @@ gXexD6lezt6kKIfCHp66o1B3mu0mdouxNDFNgUb2An9FzeXfsKCY0hSbA69L3nBm
 3J0YS3/H//mekPt9+TCxMkEy3FWh0LHLpYpJcXTJ6MImysYfMPswkPUFtAXPdjzo
 TDsRWcNvwZ+uufUQVTvItg==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14028,6 +14146,7 @@ MhWtJywThBkcVnjXtKNA00ohMspd/hKwOwvoalDtdFiZjdCmrw3ZZ2gCNAiQJymF
 dJEzcr7qejszPANDIMDdj8OlLQCcEp3b3hWFbHTKMGBx3Wai+Mchvg+RNj8PYddw
 tySPHnh+Z68Jn/0MnA+XJE8Wl58=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14140,6 +14259,7 @@ gXexD6lezt6kKIfCHp66o1B3mu0mdouxNDFNgUb2An9FzeXfsKCY0hSbA69L3nBm
 3J0YS3/H//mekPt9+TCxMkEy3FWh0LHLpYpJcXTJ6MImysYfMPswkPUFtAXPdjzo
 TDsRWcNvwZ+uufUQVTvItg==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14266,7 +14386,8 @@ dJEzcr7qejszPANDIMDdj8OlLQCcEp3b3hWFbHTKMGBx3Wai+Mchvg+RNj8PYddw
 tySPHnh+Z68Jn/0MnA+XJE8Wl58=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 2F2EDA93E788BADE39181F55FDFD7D73F102581D
+Detected mulitple "DER" for serial: 2F2EDA93E788BADE39181F55FDFD7D73F102581D
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14379,6 +14500,7 @@ okGoLjChqqDgiF3Qs75WDgcEOf7S4E4awGTXUhnbowCEwYXFdsZq/frIif+Ck7TZ
 VhqT1njFxRGZDTVcj10J6o6j0VsjkfqWmSjkZUkIyJsOYPaZtfS0UjEPPHaVDDNP
 ZVvfxQyO2onrOMHGa+PkDPbGnuXUC2YvXQ==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14504,6 +14626,7 @@ Kj9OvVZBBwJMHWiVrKtV6MJkGqqYAoNU1NAeuFoclweAGUIREyeA3Lp4PA9zsIde
 rkpagJDjWRvEz9/HNY2eG5cL9qGeSokRxavvwsQnrJV3zQ8aHMwds1BWoXG5KPCd
 tUy/m9vV0tqaDEs0f6ACY9ajf+ax11vjWqiq
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14616,6 +14739,7 @@ okGoLjChqqDgiF3Qs75WDgcEOf7S4E4awGTXUhnbowCEwYXFdsZq/frIif+Ck7TZ
 VhqT1njFxRGZDTVcj10J6o6j0VsjkfqWmSjkZUkIyJsOYPaZtfS0UjEPPHaVDDNP
 ZVvfxQyO2onrOMHGa+PkDPbGnuXUC2YvXQ==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14741,6 +14865,7 @@ Kj9OvVZBBwJMHWiVrKtV6MJkGqqYAoNU1NAeuFoclweAGUIREyeA3Lp4PA9zsIde
 rkpagJDjWRvEz9/HNY2eG5cL9qGeSokRxavvwsQnrJV3zQ8aHMwds1BWoXG5KPCd
 tUy/m9vV0tqaDEs0f6ACY9ajf+ax11vjWqiq
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14853,6 +14978,7 @@ okGoLjChqqDgiF3Qs75WDgcEOf7S4E4awGTXUhnbowCEwYXFdsZq/frIif+Ck7TZ
 VhqT1njFxRGZDTVcj10J6o6j0VsjkfqWmSjkZUkIyJsOYPaZtfS0UjEPPHaVDDNP
 ZVvfxQyO2onrOMHGa+PkDPbGnuXUC2YvXQ==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -14979,7 +15105,8 @@ rkpagJDjWRvEz9/HNY2eG5cL9qGeSokRxavvwsQnrJV3zQ8aHMwds1BWoXG5KPCd
 tUy/m9vV0tqaDEs0f6ACY9ajf+ax11vjWqiq
 -----END CERTIFICATE-----
 
-Duplicate Serial: 3066E5EA87D7B53237B848E7BC1ECB506A580DBF
+Detected mulitple "DER" for serial: 3066E5EA87D7B53237B848E7BC1ECB506A580DBF
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15107,6 +15234,7 @@ ehrA9tVB1vSNX1yrw4T/9iolcJLQOZlyU1E8xdMImC5qfN1IGNHJ72p5eyjloQ5B
 hM05iuR4P4GknFlKudTv2fwIJMrLRORDM4Zz2dUOXa8SiMdGMbVrKjBblrHsPYNN
 0I439esT+2oZHi0Y0yaI3kCZpGpLqNduM+ywGg==
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15220,6 +15348,7 @@ qwSJXALn2WNc7Cku0N1CwKkEJT3ApP9kqv0yvYVjqIamrLUia62enGJLgkSCsDKY
 M5YN5/JDnYwgHX/kLarInPcWeVzOMnNNNjke3gzmBmhoq+1cCDOgHhTJfgaFQpBP
 WObQq5xr6RNI+Z8e1dPQjrUgqninUupn+TA=
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15347,6 +15476,7 @@ ehrA9tVB1vSNX1yrw4T/9iolcJLQOZlyU1E8xdMImC5qfN1IGNHJ72p5eyjloQ5B
 hM05iuR4P4GknFlKudTv2fwIJMrLRORDM4Zz2dUOXa8SiMdGMbVrKjBblrHsPYNN
 0I439esT+2oZHi0Y0yaI3kCZpGpLqNduM+ywGg==
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15460,6 +15590,7 @@ qwSJXALn2WNc7Cku0N1CwKkEJT3ApP9kqv0yvYVjqIamrLUia62enGJLgkSCsDKY
 M5YN5/JDnYwgHX/kLarInPcWeVzOMnNNNjke3gzmBmhoq+1cCDOgHhTJfgaFQpBP
 WObQq5xr6RNI+Z8e1dPQjrUgqninUupn+TA=
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15587,6 +15718,7 @@ ehrA9tVB1vSNX1yrw4T/9iolcJLQOZlyU1E8xdMImC5qfN1IGNHJ72p5eyjloQ5B
 hM05iuR4P4GknFlKudTv2fwIJMrLRORDM4Zz2dUOXa8SiMdGMbVrKjBblrHsPYNN
 0I439esT+2oZHi0Y0yaI3kCZpGpLqNduM+ywGg==
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15701,7 +15833,8 @@ M5YN5/JDnYwgHX/kLarInPcWeVzOMnNNNjke3gzmBmhoq+1cCDOgHhTJfgaFQpBP
 WObQq5xr6RNI+Z8e1dPQjrUgqninUupn+TA=
 -----END CERTIFICATE-----
 
-Duplicate Serial: 318FACC9ED33688E25563A0692E7580D42297FC7
+Detected mulitple "DER" for serial: 318FACC9ED33688E25563A0692E7580D42297FC7
+DER #1
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15814,6 +15947,7 @@ Qt5njyjLD5Dp1k1EZaHw6P4LyuFP+ZD0L5rZMG4FE44F5AcoExqin8sudGPjV/kA
 UGvFKqjMWPwUVpPv3Sv2puIM7RUe30HpWXMdmhH0tQ7jY+M7TdxQlw5/gIlhiuJK
 0jz4+oTGrANsEwA06iubWmcBJWy3MkaoCwQk5UQ=
 -----END CERTIFICATE-----
+DER #2
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -15938,6 +16072,7 @@ r+kZXfTwf7R0V/eeJ5fJne1DAmnj/J3L+DHyK1GUY7Zqi1volhxv4vkruEcooAnZ
 3/B7CH4pxZMuUcRTtc9RW6qBDioPJc00Nq0PT7wk1wIE5WqMbQFaRfqQB497tkbK
 QxN6YhnpNWMamVXcvRRQgEjM0H6U+WelS+waMrit
 -----END CERTIFICATE-----
+DER #3
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -16050,6 +16185,7 @@ Qt5njyjLD5Dp1k1EZaHw6P4LyuFP+ZD0L5rZMG4FE44F5AcoExqin8sudGPjV/kA
 UGvFKqjMWPwUVpPv3Sv2puIM7RUe30HpWXMdmhH0tQ7jY+M7TdxQlw5/gIlhiuJK
 0jz4+oTGrANsEwA06iubWmcBJWy3MkaoCwQk5UQ=
 -----END CERTIFICATE-----
+DER #4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -16174,6 +16310,7 @@ r+kZXfTwf7R0V/eeJ5fJne1DAmnj/J3L+DHyK1GUY7Zqi1volhxv4vkruEcooAnZ
 3/B7CH4pxZMuUcRTtc9RW6qBDioPJc00Nq0PT7wk1wIE5WqMbQFaRfqQB497tkbK
 QxN6YhnpNWMamVXcvRRQgEjM0H6U+WelS+waMrit
 -----END CERTIFICATE-----
+DER #5
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -16286,6 +16423,7 @@ Qt5njyjLD5Dp1k1EZaHw6P4LyuFP+ZD0L5rZMG4FE44F5AcoExqin8sudGPjV/kA
 UGvFKqjMWPwUVpPv3Sv2puIM7RUe30HpWXMdmhH0tQ7jY+M7TdxQlw5/gIlhiuJK
 0jz4+oTGrANsEwA06iubWmcBJWy3MkaoCwQk5UQ=
 -----END CERTIFICATE-----
+DER #6
 Certificate:
     Data:
         Version: 3 (0x2)
