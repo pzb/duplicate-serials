@@ -1,7 +1,7 @@
 Issuer: CN=Entrust Certification Authority - L1K,OU=(c) 2012 Entrust\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\, Inc.,C=US
 
 Detected mulitple "DER" for serial: 50D27694
-DER #1
+DER #1 (tbsCertificate hash: 6d7fbbf13119bbcd3ba01345fa9e974202729802c771c098a3165e4a29d31472)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -109,7 +109,7 @@ za61JCPtDjQ77CBKLFrdT8J2VHrAh9fEzhrLWo97F7dNTUJsi+fmKM6c4LJ4fvx4
 QfF1KaQgUXVl08Z6YysJBqGtVEqvu3Uc8X9RwU4t/7NvsV1ZMu090H8qo3Emgvz9
 6Kf+OxrJyDJ/Q5qicOaOvrX8YR9qLHe+PXcWgL7KXPmpj2iIB6RLB491
 -----END CERTIFICATE-----
-DER #2
+DER #2 (tbsCertificate hash: 6d7fbbf13119bbcd3ba01345fa9e974202729802c771c098a3165e4a29d31472)
 Certificate:
     Data:
         Version: 3 (0x2)

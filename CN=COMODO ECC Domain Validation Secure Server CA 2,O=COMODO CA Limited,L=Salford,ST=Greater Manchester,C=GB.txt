@@ -1,7 +1,7 @@
 Issuer: CN=COMODO ECC Domain Validation Secure Server CA 2,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB
 
 Detected mulitple "DER" for serial: 2BFC7C7C294B2A9AAD6308D0C8DD83CD
-DER #1
+DER #1 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -81,7 +81,7 @@ bGwuY2x1YoIMZXZhbXVuY2guY29tggtzaHNjY3RjLmNvbTAKBggqhkjOPQQDAgNH
 ADBEAiAARe3Tco4Kl9v5DF2KYCHb4rYXQ+3L7nKIM6X7kViw4gIgJQNJuA5Blwa8
 2F8yHX+tIVgrIZKzYgtZoELzCIgUQi8=
 -----END CERTIFICATE-----
-DER #2
+DER #2 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -161,7 +161,7 @@ bGwuY2x1YoIMZXZhbXVuY2guY29tggtzaHNjY3RjLmNvbTAKBggqhkjOPQQDAgNG
 ADBDAh9F7dNyjgqX2/kMXYpgIdvithdD7cvucogzpfuRWLDiAiAlA0m4DkGXBrzY
 XzIdf60hWCshkrNiC1mgQvMIiBRCLw==
 -----END CERTIFICATE-----
-DER #3
+DER #3 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -241,7 +241,7 @@ bGwuY2x1YoIMZXZhbXVuY2guY29tggtzaHNjY3RjLmNvbTAKBggqhkjOPQQDAgNH
 ADBEAiAARe3Tco4Kl9v5DF2KYCHb4rYXQ+3L7nKIM6X7kViw4gIgJQNJuA5Blwa8
 2F8yHX+tIVgrIZKzYgtZoELzCIgUQi8=
 -----END CERTIFICATE-----
-DER #4
+DER #4 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -321,7 +321,7 @@ bGwuY2x1YoIMZXZhbXVuY2guY29tggtzaHNjY3RjLmNvbTAKBggqhkjOPQQDAgNG
 ADBDAh9F7dNyjgqX2/kMXYpgIdvithdD7cvucogzpfuRWLDiAiAlA0m4DkGXBrzY
 XzIdf60hWCshkrNiC1mgQvMIiBRCLw==
 -----END CERTIFICATE-----
-DER #5
+DER #5 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -401,7 +401,7 @@ bGwuY2x1YoIMZXZhbXVuY2guY29tggtzaHNjY3RjLmNvbTAKBggqhkjOPQQDAgNH
 ADBEAiAARe3Tco4Kl9v5DF2KYCHb4rYXQ+3L7nKIM6X7kViw4gIgJQNJuA5Blwa8
 2F8yHX+tIVgrIZKzYgtZoELzCIgUQi8=
 -----END CERTIFICATE-----
-DER #6
+DER #6 (tbsCertificate hash: 89d4b9b706a73c04236e3be3f663e739a96bee5fb85687a2357ece1ddbf77f55)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -483,7 +483,7 @@ XzIdf60hWCshkrNiC1mgQvMIiBRCLw==
 -----END CERTIFICATE-----
 
 Detected mulitple "DER" for serial: DC08735BD8A75D4F59FF8CFED8DB0692
-DER #1
+DER #1 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -570,7 +570,7 @@ Y2+CD3Rla3RvbmNyYWZ0Lm5ldDAKBggqhkjOPQQDAgNHADBEAiArwl+CIp1iLMxV
 jTLuagqR/H1d2XRZxziuANS3ehunrAIgABDXAIY9W3SI20m7PfM+1XGsK/wSvV08
 pnFj5tmZvcM=
 -----END CERTIFICATE-----
-DER #2
+DER #2 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -657,7 +657,7 @@ Y2+CD3Rla3RvbmNyYWZ0Lm5ldDAKBggqhkjOPQQDAgNGADBDAiArwl+CIp1iLMxV
 jTLuagqR/H1d2XRZxziuANS3ehunrAIfENcAhj1bdIjbSbs98z7Vcawr/BK9XTym
 cWPm2Zm9ww==
 -----END CERTIFICATE-----
-DER #3
+DER #3 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -744,7 +744,7 @@ Y2+CD3Rla3RvbmNyYWZ0Lm5ldDAKBggqhkjOPQQDAgNHADBEAiArwl+CIp1iLMxV
 jTLuagqR/H1d2XRZxziuANS3ehunrAIgABDXAIY9W3SI20m7PfM+1XGsK/wSvV08
 pnFj5tmZvcM=
 -----END CERTIFICATE-----
-DER #4
+DER #4 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -831,7 +831,7 @@ Y2+CD3Rla3RvbmNyYWZ0Lm5ldDAKBggqhkjOPQQDAgNGADBDAiArwl+CIp1iLMxV
 jTLuagqR/H1d2XRZxziuANS3ehunrAIfENcAhj1bdIjbSbs98z7Vcawr/BK9XTym
 cWPm2Zm9ww==
 -----END CERTIFICATE-----
-DER #5
+DER #5 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -918,7 +918,7 @@ Y2+CD3Rla3RvbmNyYWZ0Lm5ldDAKBggqhkjOPQQDAgNHADBEAiArwl+CIp1iLMxV
 jTLuagqR/H1d2XRZxziuANS3ehunrAIgABDXAIY9W3SI20m7PfM+1XGsK/wSvV08
 pnFj5tmZvcM=
 -----END CERTIFICATE-----
-DER #6
+DER #6 (tbsCertificate hash: 464b0f6fea3f68a902ab14ef6ab6cdd74767d8e23f82afaf772c1298841166c0)
 Certificate:
     Data:
         Version: 3 (0x2)

@@ -1,7 +1,7 @@
 Issuer: CN=Symantec Class 3 Secure Server CA - G4,OU=Symantec Trust Network,O=Symantec Corporation,C=US
 
 Detected mulitple "DER" for serial: 05B8122A41D40FB7B723A279298A390A
-DER #1
+DER #1 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -108,7 +108,7 @@ Vd6AHTBGC8F8q4zRtpRPkyJD1+tpY25zsQbTS2d7zvbWXga46vBOSb1v46iNHnsR
 RLj6QsL6n1RCAkOm2Kb/4HZF3hTCmldes1UKDMB3Uli754jIrBgqoP5+cgeco5qP
 i0UmHd9d/KQ9LRXUGxykR4xPKg==
 -----END CERTIFICATE-----
-DER #2
+DER #2 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -215,7 +215,7 @@ DHfXjsIrl3KgOVZqsvM5xhb5an55n3IL6anHW7mh4KMwiRb445E8BYXvF0kcQLT3
 exFEuPpCwvqfVEICQ6bYpv/gdkXeFMKaV16zVQoMwHdSWLvniMisGCqg/n5yB5yj
 mo+LRSYd3138pD0tFdQbHKRHjE8q
 -----END CERTIFICATE-----
-DER #3
+DER #3 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -322,7 +322,7 @@ Vd6AHTBGC8F8q4zRtpRPkyJD1+tpY25zsQbTS2d7zvbWXga46vBOSb1v46iNHnsR
 RLj6QsL6n1RCAkOm2Kb/4HZF3hTCmldes1UKDMB3Uli754jIrBgqoP5+cgeco5qP
 i0UmHd9d/KQ9LRXUGxykR4xPKg==
 -----END CERTIFICATE-----
-DER #4
+DER #4 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -429,7 +429,7 @@ DHfXjsIrl3KgOVZqsvM5xhb5an55n3IL6anHW7mh4KMwiRb445E8BYXvF0kcQLT3
 exFEuPpCwvqfVEICQ6bYpv/gdkXeFMKaV16zVQoMwHdSWLvniMisGCqg/n5yB5yj
 mo+LRSYd3138pD0tFdQbHKRHjE8q
 -----END CERTIFICATE-----
-DER #5
+DER #5 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -536,7 +536,7 @@ Vd6AHTBGC8F8q4zRtpRPkyJD1+tpY25zsQbTS2d7zvbWXga46vBOSb1v46iNHnsR
 RLj6QsL6n1RCAkOm2Kb/4HZF3hTCmldes1UKDMB3Uli754jIrBgqoP5+cgeco5qP
 i0UmHd9d/KQ9LRXUGxykR4xPKg==
 -----END CERTIFICATE-----
-DER #6
+DER #6 (tbsCertificate hash: a985635c5ab22077b31fd8efd1008d0b18ffe1882df311c89e5579aeb6f274fc)
 Certificate:
     Data:
         Version: 3 (0x2)
